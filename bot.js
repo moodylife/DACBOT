@@ -46,3 +46,25 @@ m.delete();
 omar.reply("`تم حذف جميع الرتب بنجاح`")
 }//Toxis Codes
 }); //Toxis Codes
+client.on("ready", async  => {
+  setInterval(function(){
+  client.channels.find('id', '531593819674640404').setName("W");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("We");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Wel");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welc");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welco");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcom");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome T");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To T");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Tox");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxi");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxic");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxic C");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxic Co");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxic Cod");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxic Code");//Toxic Codes
+  client.channels.find('id', '531593819674640404').setName("Welcome To Toxic Codes");//Toxic Codes
+    }, 4000);
+  });
